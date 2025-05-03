@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sammcj-mcp-snyk-badge.png)](https://mseep.ai/app/sammcj-mcp-snyk)
+
 # Snyk MCP Server
 
 A standalone Model Context Protocol server for Snyk security scanning functionality.
